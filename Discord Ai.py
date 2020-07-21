@@ -31,5 +31,5 @@ async def on_message(message):
         await message.channel.send("Do not send this link in the channel")
 
 
-Token = 'NzExMzY2OTU4NTIzODc1MzY4.XxZv8A.JAm4o-k-mZHmNCU3-oDKP5TJ34s'
+Token = 'Put your token here'
 client.run(Token)
